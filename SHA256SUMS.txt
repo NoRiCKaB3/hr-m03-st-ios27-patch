@@ -1,0 +1,3 @@
+a884e573ee15c407c99f5792c12d32e1d8553c4674a75f8bd610d91da2190861  apk/HR-M03-iOS27-patch.apk
+a6c5fab0d7cadf63cd9b78528a3b016ce3c90fc79caf044ef3d28d21e9eb0508  firmware/HR_M03_V012_iOS27_left.bin
+a6c5fab0d7cadf63cd9b78528a3b016ce3c90fc79caf044ef3d28d21e9eb0508  firmware/HR_M03_V012_iOS27_right.bin
